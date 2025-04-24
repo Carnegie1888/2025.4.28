@@ -539,8 +539,7 @@ function handleSecretClick() {
         customModal.className = 'custom-modal';
         customModal.innerHTML = `
             <div class="modal-content">
-                <h2>🎉 生日快乐！🎉</h2>
-                <p>这是给你的小惊喜！希望你度过美好的一天！</p>
+                <h2>🎉 MZ 生日快乐！🎉</h2>
                 <button class="modal-close">关闭</button>
             </div>
         `;
